@@ -1,0 +1,15 @@
+body{
+	background-color:#E4F0CF;
+	}
+h1{
+	letter-spacing: 2px;
+	color: #264726;
+}
+h2{
+	color: #264726;
+	}
+img{
+	border: 10px double #6E5D48;
+	box-shadow: 6px 8px 10px #663300;
+	margin: 25px;
+	}
